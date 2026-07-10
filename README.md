@@ -1,7 +1,7 @@
 # Proyecto de Predicción de Visualizaciones en Tendencias de YouTube México
 
 ## ▪ Objetivo del proyecto
-El objetivo principal de este proyecto es desarrollar, evaluar y validar un modelo de **Regresión Lineal Múltiple** capaz de predecir el éxito de un video (medido a través de su volumen de visualizaciones) cuando se posiciona dentro de la pestaña de Tendencias de YouTube en México. El modelo busca entender la influencia de las interacciones tempranas de los usuarios y las características estructurales del contenido en su rendimiento final.
+El objetivo principal de este proyecto académico es desarrollar, evaluar y validar un modelo de **Regresión Lineal Múltiple** capaz de predecir el éxito de un video (medido a través de su volumen de visualizaciones) cuando se posiciona dentro de la pestaña de Tendencias de YouTube en México. El modelo busca entender la influencia de las interacciones tempranas de los usuarios y las características estructurales del contenido en su rendimiento final.
 
 ---
 
@@ -45,5 +45,3 @@ Esta discrepancia matemática indica que el modelo **tiende a subestimar el alca
 
 ## ▪ Licencia de uso
 Este proyecto se distribuye bajo la licencia **MIT**. Eres libre de usar, modificar y distribuir este código para fines académicos o comerciales, siempre y cuando se otorgue el crédito correspondiente a los autores originales. 
-
-Consulta el archivo `LICENSE` para obtener más detalles.
